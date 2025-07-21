@@ -1,2 +1,0 @@
-# TechWrite
-Technical writing
